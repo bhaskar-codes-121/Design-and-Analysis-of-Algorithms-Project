@@ -3,7 +3,6 @@
 // Course : Design & Analysis of Algorithm Lab
 // Code : CS591
 // Author(s) : Bhaskar Tejaswi
-// Roll Number(s) : A-30
 //
 //---------------------------------------------------------------------------------------------------
 #include<stdio.h>
