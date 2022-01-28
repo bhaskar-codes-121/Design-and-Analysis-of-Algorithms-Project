@@ -2,7 +2,7 @@
 //
 // Course : Design & Analysis of Algorithm Lab
 // Code : CS591
-// Author(s) : Bhaskar Tejaswi
+// Author(s) : Bhaskar 
 //
 //---------------------------------------------------------------------------------------------------
 #include<stdio.h>
