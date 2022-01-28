@@ -19,7 +19,7 @@
 #include "setunionfind.c"
 #include "jobscheduling.c"
 int main(){
-printf("Name : Bhaskar Tejaswi\n");
+printf("Name : Bhaskar \n");
 printf("Subject : Design And Analysis of Algorithms\n");
 printf("Sem : 5th\n");
 int choice=0;
